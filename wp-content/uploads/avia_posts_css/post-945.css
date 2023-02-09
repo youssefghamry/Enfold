@@ -1,0 +1,105 @@
+.flex_cell.av-7dbnl-3252c0d9f781ed9bdc078c7cb766f8f1{
+vertical-align:middle;
+height:500px;
+min-height:500px;
+background:url(http://localhost/wordpress/Enfold/wp-content/uploads/2016/07/medical-report-m.jpg) 0% 0% no-repeat scroll #22689e;
+}
+.responsive #top #wrap_all .flex_cell.av-7dbnl-3252c0d9f781ed9bdc078c7cb766f8f1{
+padding:0px 0px 0px 0px !important;
+}
+
+.flex_cell.av-1xw2nt-88dfd1b40a98b1a7cfd9a47385023af0{
+vertical-align:middle;
+height:500px;
+min-height:500px;
+background-color:#22689e;
+}
+.responsive #top #wrap_all .flex_cell.av-1xw2nt-88dfd1b40a98b1a7cfd9a47385023af0{
+padding:80px 80px 80px 80px !important;
+}
+
+#top .av-special-heading.av-1r9zo9-1a7ff918e646b0e0265fbe839b784545{
+padding-bottom:25px;
+color:#ffffff;
+font-size:34px;
+}
+body .av-special-heading.av-1r9zo9-1a7ff918e646b0e0265fbe839b784545 .av-special-heading-tag .heading-char{
+font-size:25px;
+}
+#top #wrap_all .av-special-heading.av-1r9zo9-1a7ff918e646b0e0265fbe839b784545 .av-special-heading-tag{
+font-size:34px;
+}
+.av-special-heading.av-1r9zo9-1a7ff918e646b0e0265fbe839b784545 .special-heading-inner-border{
+border-color:#ffffff;
+}
+.av-special-heading.av-1r9zo9-1a7ff918e646b0e0265fbe839b784545 .av-subheading{
+font-size:15px;
+}
+
+#top .av_textblock_section.av-1lwaoh-7027b245cfb3afe46576ae57a80b29d6 .avia_textblock{
+color:#ffffff;
+}
+
+#top .flex_column_table.av-equal-height-column-flextable.av-1753zt-c2984b9ff8e1c0d378c3e05a5c023617{
+margin-top:-200px;
+margin-bottom:0px;
+}
+.flex_column.av-1753zt-c2984b9ff8e1c0d378c3e05a5c023617{
+-webkit-border-radius:0px 0px 0px 0px;
+-moz-border-radius:0px 0px 0px 0px;
+border-radius:0px 0px 0px 0px;
+padding:40px 40px 40px 40px;
+}
+
+#top .flex_column_table.av-equal-height-column-flextable.av-15ni7l-15ec7e954ca93d70e90c4e4d80e2dc3f{
+margin-top:-200px;
+margin-bottom:0px;
+}
+.flex_column.av-15ni7l-15ec7e954ca93d70e90c4e4d80e2dc3f{
+-webkit-border-radius:0px 0px 0px 0px;
+-moz-border-radius:0px 0px 0px 0px;
+border-radius:0px 0px 0px 0px;
+padding:40px 40px 40px 40px;
+background-color:#379cd6;
+}
+
+.av_font_icon.av-x16wx-9e38b8d10b07c17a724850139172c51f{
+color:#ffffff;
+border-color:#ffffff;
+}
+.av_font_icon.av-x16wx-9e38b8d10b07c17a724850139172c51f .av-icon-char{
+font-size:60px;
+line-height:60px;
+}
+
+#top .hr.hr-invisible.av-smow9-e68d9f0602d5cfab20c6324abc9f7c39{
+height:20px;
+}
+
+#top .av_textblock_section.av-lsz7t-c0c2c4ee0482b8567e8b0e6866eebc2e .avia_textblock{
+color:#ffffff;
+}
+
+#top .flex_column_table.av-equal-height-column-flextable.av-ddngp-d51a8ae4fc955ec5b70c04c806333cb4{
+margin-top:-200px;
+margin-bottom:0px;
+}
+.flex_column.av-ddngp-d51a8ae4fc955ec5b70c04c806333cb4{
+-webkit-border-radius:0px 0px 0px 0px;
+-moz-border-radius:0px 0px 0px 0px;
+border-radius:0px 0px 0px 0px;
+padding:40px 40px 40px 40px;
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px){ 
+#top #wrap_all .av-special-heading.av-1r9zo9-1a7ff918e646b0e0265fbe839b784545 .av-special-heading-tag{
+font-size:0.8em;
+}
+}
+
+@media only screen and (max-width: 479px){ 
+#top #wrap_all .av-special-heading.av-1r9zo9-1a7ff918e646b0e0265fbe839b784545 .av-special-heading-tag{
+font-size:0.8em;
+}
+}
