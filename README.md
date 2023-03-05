@@ -18,10 +18,6 @@ It comes with a plethora of options so you can modify layout, styling, colors an
 
 
 
-(src/assets/docs-images/finnkino-user-management-laptop.png)
-
-(src/assets/docs-images/finnkino-movie-management-laptop.png)
-
 
 
 ## KEY FEATURES OVERVIEW
