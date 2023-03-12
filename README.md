@@ -15,9 +15,17 @@
 It comes with a plethora of options so you can modify layout, styling, colors and fonts directly from within the backend. Build your own clean skin or use one of 18 predefined skins right out from your WordPress Admin Panel. Font, background and color options as well as the dynamic template builder will help you create the Website you need in no time. In addition to the global options you can set unique styling options for each entry as seen in the theme demo
 ## Some project's views on devices
 
+ <img src="https://raw.githubusercontent.com/youssefghamry/Enfold/main/1.png">
+
+//raw.githubusercontent.com/youssefghamry/Enfold/main/2.png">
+## 2
+  <img src="https://raw.githubusercontent.com/youssefghamry/Enfold/main/3.png">
+## 3
 
 
+## Watch an explanatory video
 
+https://youtu.be/lk91dp1noPw
 
 
 ## KEY FEATURES OVERVIEW
